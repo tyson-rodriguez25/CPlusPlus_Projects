@@ -1,0 +1,16 @@
+﻿  Database.cpp
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\relational database\relational database\database.cpp(272): warning C4018: '<': signed/unsigned mismatch
+  Relational Database.vcxproj -> C:\Users\Tyson\source\repos\Relational Database\Debug\Relational Database.exe
+  Relational Database.vcxproj -> C:\Users\Tyson\source\repos\Relational Database\Debug\Relational Database.pdb (Partial PDB)

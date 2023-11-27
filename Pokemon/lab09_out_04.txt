@@ -1,0 +1,91 @@
+Pokemon: 
+Rhydon: rock
+Houndoom: dark
+Togepi: normal
+Heracross: bug
+Skarmory: steel
+Magicarp: water
+Lucario: fighting
+Jigglypuff: fairy
+Giratina: ghost
+Salamence: dragon
+Pidgey: flying
+Venasaur: grass
+Koffing: poison
+Arcanine: fire
+Lapis: ice
+Electrode: electric
+Sandshrew: ground
+Mew: psychic
+
+Moves: 
+incinerate: fire
+sweet_kiss: fairy
+leech_life: bug
+peck: flying
+shock_wave: electric
+thrash: normal
+dig: ground
+smog: poison
+confusion: psychic
+rock_tomb: rock
+focus_punch: fighting
+gyro_ball: steel
+dragon_breath: dragon
+splash: water
+pursuit: dark
+leaf_blade: grass
+phantom_force: ghost
+ice_beam: ice
+
+Effectivities:
+electric:  flying water 
+grass:  rock ground water 
+fighting:  steel dark rock ice normal 
+flying:  bug fighting grass 
+fire:  steel bug ice grass 
+bug:  dark psychic grass 
+rock:  bug flying ice fire 
+ghost:  ghost psychic 
+dark:  ghost psychic 
+steel:  fairy rock ice 
+ground:  steel rock poison electric fire 
+fairy:  dark dragon fighting 
+poison:  fairy grass 
+dragon:  dragon 
+normal:  Empty
+ice:  dragon flying ground grass 
+water:  rock ground fire 
+psychic:  poison fighting 
+
+Ineffectivites:
+electric:  dragon ground grass electric 
+grass:  steel dragon bug flying poison grass fire 
+fighting:  fairy ghost bug psychic flying poison 
+flying:  steel rock electric 
+fire:  dragon rock water fire 
+bug:  fairy steel ghost flying poison fighting fire 
+rock:  steel ground fighting 
+ghost:  dark normal 
+dark:  fairy dark fighting 
+steel:  steel electric water fire 
+ground:  bug flying grass 
+fairy:  steel ground fire 
+poison:  steel ghost rock ground poison 
+dragon:  fairy steel 
+normal:  steel ghost rock 
+ice:  steel ice water fire 
+water:  dragon grass water 
+psychic:  steel dark psychic 
+
+Electrode (shock_wave) vs Koffing (smog): Tie!
+Arcanine (thrash) vs Magicarp (splash): Magicarp wins!
+Sandshrew (rock_tomb) vs Skarmory (peck): Skarmory wins!
+Jigglypuff (sweet_kiss) vs Salamence (confusion): Jigglypuff wins!
+Mew (gyro_ball) vs Lapis (ice_beam): Mew wins!
+Rhydon (dig) vs Lucario (focus_punch): Lucario wins!
+Pidgey (peck) vs Giratina (pursuit): Tie!
+Houndoom (phantom_force) vs Heracross (leech_life): Heracross wins!
+Venasaur (leaf_blade) vs Togepi (dragon_breath): Tie!
+Arcanine (incinerate) vs Venasaur (smog): Arcanine wins!
+Rhydon (rock_tomb) vs Togepi (thrash): Rhydon wins!

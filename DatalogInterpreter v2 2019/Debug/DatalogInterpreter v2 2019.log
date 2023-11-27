@@ -1,0 +1,16 @@
+﻿  Database.cpp
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\tuple.h(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\scheme.h(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(241): warning C4101: 'e': unreferenced local variable
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(278): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(334): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(342): warning C4101: 'e': unreferenced local variable
+c:\users\tyson\source\repos\dataloginterpreter v2 2019\dataloginterpreter v2 2019\database.cpp(394): warning C4018: '<': signed/unsigned mismatch
+  DatalogInterpreter v2 2019.vcxproj -> C:\Users\Tyson\source\repos\DatalogInterpreter v2 2019\Debug\DatalogInterpreter v2 2019.exe
+  DatalogInterpreter v2 2019.vcxproj -> C:\Users\Tyson\source\repos\DatalogInterpreter v2 2019\Debug\DatalogInterpreter v2 2019.pdb (Partial PDB)

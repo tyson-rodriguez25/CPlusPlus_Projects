@@ -1,0 +1,20 @@
+My Array
+1 2 3 4 5 6 7 8 9 10 
+11 12 13 14 15 16 17 18 19 20 
+
+SEQUENTIAL
+iter1: size = 20 index= 0 mode= 0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+PRIME
+iter2: size = 20 index= 1 mode= 1
+2 3 5 7 11 13 17 19 
+
+COMPOSITE
+iter3: size = 20 index= 0 mode= 2
+1 4 6 8 9 10 12 14 15 16 18 20 
+
+FIBINOCCI
+iter4: size = 20 index= 2 mode= 3
+3=1+2 
+

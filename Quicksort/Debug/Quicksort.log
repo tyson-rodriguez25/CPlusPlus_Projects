@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\tyson\source\repos\quicksort\quicksort\quicksort.h(190): warning C4018: '<': signed/unsigned mismatch
+  c:\users\tyson\source\repos\quicksort\quicksort\quicksort.h(185): note: while compiling class template member function 'std::string Quicksort<int>::toString(void) const'
+  c:\users\tyson\source\repos\quicksort\quicksort\main.cpp(138): note: see reference to function template instantiation 'std::string Quicksort<int>::toString(void) const' being compiled
+  c:\users\tyson\source\repos\quicksort\quicksort\main.cpp(52): note: see reference to class template instantiation 'Quicksort<int>' being compiled
+c:\users\tyson\source\repos\quicksort\quicksort\quicksort.h(40): warning C4018: '<': signed/unsigned mismatch
+  c:\users\tyson\source\repos\quicksort\quicksort\quicksort.h(37): note: while compiling class template member function 'bool Quicksort<int>::addElement(T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\tyson\source\repos\quicksort\quicksort\main.cpp(76): note: see reference to function template instantiation 'bool Quicksort<int>::addElement(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  Quicksort.vcxproj -> C:\Users\Tyson\source\repos\Quicksort\Debug\Quicksort.exe
+  Quicksort.vcxproj -> C:\Users\Tyson\source\repos\Quicksort\Debug\Quicksort.pdb (Partial PDB)

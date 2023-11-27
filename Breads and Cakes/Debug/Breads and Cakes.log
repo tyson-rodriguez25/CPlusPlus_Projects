@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\tyson\source\repos\breads and cakes\breads and cakes\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\breads and cakes\breads and cakes\main.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\tyson\source\repos\breads and cakes\breads and cakes\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Breads and Cakes.vcxproj -> C:\Users\Tyson\source\repos\Breads and Cakes\Debug\Breads and Cakes.exe
+  Breads and Cakes.vcxproj -> C:\Users\Tyson\source\repos\Breads and Cakes\Debug\Breads and Cakes.pdb (Partial PDB)

@@ -1,0 +1,51 @@
+﻿  Main.cpp
+c:\users\tyson\source\repos\railroad\railroad\station.h(138): warning C4805: '==': unsafe mix of type 'size_t' and type 'bool' in operation
+  c:\users\tyson\source\repos\railroad\railroad\station.h(131): note: while compiling class template member function 'std::string Station<::size_t>::removeQueue(void)'
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(71): note: see reference to function template instantiation 'std::string Station<::size_t>::removeQueue(void)' being compiled
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(52): note: see reference to class template instantiation 'Station<::size_t>' being compiled
+c:\users\tyson\source\repos\railroad\railroad\station.h(116): warning C4805: '!=': unsafe mix of type 'size_t' and type 'bool' in operation
+  c:\users\tyson\source\repos\railroad\railroad\station.h(115): note: while compiling class template member function 'std::string Station<::size_t>::addQueue(void)'
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(62): note: see reference to function template instantiation 'std::string Station<::size_t>::addQueue(void)' being compiled
+c:\users\tyson\source\repos\railroad\railroad\station.h(88): warning C4805: '==': unsafe mix of type 'size_t' and type 'bool' in operation
+  c:\users\tyson\source\repos\railroad\railroad\station.h(81): note: while compiling class template member function 'std::string Station<::size_t>::removeStack(void)'
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(74): note: see reference to function template instantiation 'std::string Station<::size_t>::removeStack(void)' being compiled
+c:\users\tyson\source\repos\railroad\railroad\station.h(66): warning C4805: '!=': unsafe mix of type 'size_t' and type 'bool' in operation
+  c:\users\tyson\source\repos\railroad\railroad\station.h(65): note: while compiling class template member function 'std::string Station<::size_t>::addStack(void)'
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(65): note: see reference to function template instantiation 'std::string Station<::size_t>::addStack(void)' being compiled
+c:\users\tyson\source\repos\railroad\railroad\station.h(43): warning C4805: '!=': unsafe mix of type 'size_t' and type 'bool' in operation
+  c:\users\tyson\source\repos\railroad\railroad\station.h(42): note: while compiling class template member function 'std::string Station<::size_t>::removeCar(void)'
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(68): note: see reference to function template instantiation 'std::string Station<::size_t>::removeCar(void)' being compiled
+c:\users\tyson\source\repos\railroad\railroad\station.h(29): warning C4805: '==': unsafe mix of type 'size_t' and type 'bool' in operation
+  c:\users\tyson\source\repos\railroad\railroad\station.h(28): note: while compiling class template member function 'std::string Station<::size_t>::addCar(T)'
+          with
+          [
+              T=::size_t
+          ]
+  c:\users\tyson\source\repos\railroad\railroad\main.cpp(59): note: see reference to function template instantiation 'std::string Station<::size_t>::addCar(T)' being compiled
+          with
+          [
+              T=::size_t
+          ]
+c:\users\tyson\source\repos\railroad\railroad\deque.h(26): warning C4018: '<': signed/unsigned mismatch
+  c:\users\tyson\source\repos\railroad\railroad\deque.h(22): note: while compiling class template member function 'void Deque<T>::reallocate(void)'
+          with
+          [
+              T=::size_t
+          ]
+  c:\users\tyson\source\repos\railroad\railroad\deque.h(59): note: see reference to function template instantiation 'void Deque<T>::reallocate(void)' being compiled
+          with
+          [
+              T=::size_t
+          ]
+  c:\users\tyson\source\repos\railroad\railroad\queue.h(17): note: see reference to class template instantiation 'Deque<T>' being compiled
+          with
+          [
+              T=::size_t
+          ]
+  c:\users\tyson\source\repos\railroad\railroad\station.h(21): note: see reference to class template instantiation 'Queue<T>' being compiled
+          with
+          [
+              T=::size_t
+          ]
+  Railroad.vcxproj -> C:\Users\Tyson\source\repos\Railroad\Debug\Railroad.exe
+  Railroad.vcxproj -> C:\Users\Tyson\source\repos\Railroad\Debug\Railroad.pdb (Partial PDB)

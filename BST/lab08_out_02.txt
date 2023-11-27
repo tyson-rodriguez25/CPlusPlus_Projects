@@ -1,0 +1,96 @@
+PrintBST Empty
+Add 6 true
+Add 66 true
+Add 666 true
+Add 6666 true
+Add 66666 true
+Add 666666 true
+Add 5 true
+Add 55 true
+Add 555 true
+Add 5555 true
+Add 55555 true
+Add 4 true
+Add 44 true
+Add 444 true
+Add 4444 true
+Add 3 true
+Add 33 true
+Add 333 true
+Add 2 true
+Add 22 true
+Add 1 true
+PrintBST
+  0: 6
+  1: 5 66
+  2: 4 _ 55 666
+  3: 3 _ 44 _ 555 6666
+  4: 2 _ 33 _ 444 _ 5555 66666
+  5: 1 _ 22 _ 333 _ 4444 _ 55555 666666
+Remove 22 true
+Remove 33 true
+Remove 44 true
+Remove 55 true
+Remove 66 true
+Remove 6 true
+PrintBST
+  0: 5
+  1: 4 666
+  2: 3 _ 555 6666
+  3: 2 _ 444 _ 5555 66666
+  4: 1 _ 333 _ 4444 _ 55555 666666
+Remove 5 true
+PrintBST
+  0: 4
+  1: 3 666
+  2: 2 _ 555 6666
+  3: 1 _ 444 _ 5555 66666
+  4: 333 _ 4444 _ 55555 666666
+Remove 444 true
+Remove 555 true
+Remove 666 true
+PrintBST
+  0: 4
+  1: 3 333
+  2: 2 _ _ 6666
+  3: 1 _ 5555 66666
+  4: 4444 _ 55555 666666
+Remove 6666 true
+PrintBST
+  0: 4
+  1: 3 333
+  2: 2 _ _ 5555
+  3: 1 _ 4444 66666
+  4: 55555 666666
+Remove 55555 true
+Remove 66666 true
+PrintBST
+  0: 4
+  1: 3 333
+  2: 2 _ _ 5555
+  3: 1 _ 4444 666666
+Remove 333 true
+Remove 444 false
+Remove 555 false
+Remove 666 false
+PrintBST
+  0: 4
+  1: 3 5555
+  2: 2 _ 4444 666666
+  3: 1 _
+Remove 5555 true
+PrintBST
+  0: 4
+  1: 3 4444
+  2: 2 _ _ 666666
+  3: 1 _
+Remove 4 true
+Remove 3 true
+Remove 2 true
+Remove 1 true
+PrintBST
+  0: 4444
+  1: _ 666666
+Remove 4444 true
+Remove 666666 true
+PrintBST Empty

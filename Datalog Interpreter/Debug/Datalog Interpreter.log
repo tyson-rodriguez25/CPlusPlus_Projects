@@ -1,0 +1,4 @@
+﻿  relationalDatabase.cpp
+c:\users\tyson\source\repos\datalog interpreter\datalog interpreter\relationaldatabase.cpp(272): warning C4018: '<': signed/unsigned mismatch
+  Datalog Interpreter.vcxproj -> C:\Users\Tyson\source\repos\Datalog Interpreter\Debug\Datalog Interpreter.exe
+  Datalog Interpreter.vcxproj -> C:\Users\Tyson\source\repos\Datalog Interpreter\Debug\Datalog Interpreter.pdb (Partial PDB)

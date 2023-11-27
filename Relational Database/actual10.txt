@@ -1,0 +1,26 @@
+Schemes populated after 5 passes through the Rules.
+shift(a,b,c,d)? Yes(4)
+  a='a', b='b', c='c', d='d'
+  a='b', b='c', c='d', d='a'
+  a='c', b='d', c='a', d='b'
+  a='d', b='a', c='b', d='c'
+chars(a)? Yes(4)
+  a='a'
+  a='b'
+  a='c'
+  a='d'
+be(b,e)? Yes(4)
+  b='a', e='a'
+  b='b', e='b'
+  b='c', e='c'
+  b='d', e='d'
+ade(a,d,e)? Yes(4)
+  a='a', d='a', e='a'
+  a='b', d='b', e='b'
+  a='c', d='c', e='c'
+  a='d', d='d', e='d'
+combinations(a,b,c,d)? Yes(4)
+  a='a', b='a', c='a', d='a'
+  a='b', b='b', c='b', d='b'
+  a='c', b='c', c='c', d='c'
+  a='d', b='d', c='d', d='d'

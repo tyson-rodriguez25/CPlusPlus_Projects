@@ -1,0 +1,21 @@
+Exam Averages:
+Exam 1 average =88.5  0(A)   5(B)   3(C)   4(D)   1(E)   
+Exam 2 average =81.1  1(A)   4(B)   3(C)   5(D)   0(E)   
+Exam 3 average =82.5  3(A)   1(B)   2(C)   7(D)   0(E)   
+Exam 4 average =89.3  0(A)   7(B)   1(C)   3(D)   2(E)   
+Exam 5 average =89.5  0(A)   6(B)   2(C)   3(D)   2(E)   
+
+Student Exam Grades:
+          AlanTuring  81(D) 100(A) 100(A)  99(B)  65(E) 
+      TimBerners-Lee 100(B)  96(B)  70(D)  81(D)  72(E) 
+         GraceHooper 100(B)  67(D)  71(D)  68(E)  94(C) 
+         DonaldKnuth  78(D)  82(C)  73(D)  76(D) 100(B) 
+           LarryPage 100(B)  82(C)  82(C) 100(B) 100(B) 
+          SergeyBrin  77(D)  89(B)  76(D)  77(D) 100(B) 
+         AdaLovelace 100(B)  67(D) 100(A) 100(B) 100(B) 
+      CharlesBabbage  88(C)  77(C)  79(C)  86(C)  89(C) 
+       BarbaraLiskov  91(C)  69(D)  77(D) 100(B)  77(D) 
+      MarkZuckerburg  86(C)  94(B)  74(D) 100(B) 100(B) 
+           BillGates  99(B)  92(B) 100(A) 100(B)  84(D) 
+         BrendanEich  83(D)  72(D)  74(D)  74(E)  82(D) 
+          HedyLamarr  67(E)  67(D)  96(B) 100(B) 100(B) 

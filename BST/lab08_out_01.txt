@@ -1,0 +1,31 @@
+Add 2 true
+Add 3 true
+Add 4 true
+Add 2 false
+PrintBST
+  0: 2
+  1: _ 3
+  2: _ 4
+Add 5 true
+Add 6 true
+Add 10 true
+Add 1 true
+PrintBST
+  0: 2
+  1: 1 3
+  2: _ 4
+  3: _ 5
+  4: _ 6
+  5: _ 10
+Add 8 true
+Add 7 true
+Add 9 true
+PrintBST
+  0: 2
+  1: 1 3
+  2: _ 4
+  3: _ 5
+  4: _ 6
+  5: _ 10
+  6: 8 _
+  7: 7 9

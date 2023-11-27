@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\tyson\source\repos\plinko with functions\plinko with functions\main.cpp(108): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tyson\source\repos\plinko with functions\plinko with functions\main.cpp(192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tyson\source\repos\plinko with functions\plinko with functions\main.cpp(260): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Plinko with Functions.vcxproj -> C:\Users\Tyson\source\repos\Plinko with Functions\Debug\Plinko with Functions.exe
+  Plinko with Functions.vcxproj -> C:\Users\Tyson\source\repos\Plinko with Functions\Debug\Plinko with Functions.pdb (Partial PDB)

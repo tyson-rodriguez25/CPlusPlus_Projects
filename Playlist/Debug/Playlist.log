@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\tyson\source\repos\playlist\playlist\main.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  Playlist.vcxproj -> C:\Users\Tyson\source\repos\Playlist\Debug\Playlist.exe
+  Playlist.vcxproj -> C:\Users\Tyson\source\repos\Playlist\Debug\Playlist.pdb (Partial PDB)

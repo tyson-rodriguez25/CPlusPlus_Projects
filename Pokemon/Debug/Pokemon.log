@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\tyson\source\repos\pokemon\pokemon\map.h(74): warning C4715: 'Map<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]': not all control paths return a value
+c:\users\tyson\source\repos\pokemon\pokemon\map.h(74): warning C4715: 'Map<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,Set<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > >::operator[]': not all control paths return a value
+  Pokemon.vcxproj -> C:\Users\Tyson\source\repos\Pokemon\Debug\Pokemon.exe
+  Pokemon.vcxproj -> C:\Users\Tyson\source\repos\Pokemon\Debug\Pokemon.pdb (Partial PDB)

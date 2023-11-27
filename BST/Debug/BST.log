@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\tyson\source\repos\bst\bst\bst.h(62): warning C4715: 'BST<int>::addNode': not all control paths return a value
+  BST.vcxproj -> C:\Users\Tyson\source\repos\BST\Debug\BST.exe
+  BST.vcxproj -> C:\Users\Tyson\source\repos\BST\Debug\BST.pdb (Partial PDB)
